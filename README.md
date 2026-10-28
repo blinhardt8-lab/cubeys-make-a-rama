@@ -10,20 +10,26 @@ Play it in your browser [here](https://blinhardt8-lab.github.io/cubeys-make-a-ra
 * **Lightweight Collision Physics**: Only adjacent tiles' hitboxes are rendered, while the rest of the level is drawn using pen to avoid lag.
 
 ## Controls
-* 1-9: Select Block
-* E: Erase
-* R: Rotate
-* F: Flip (Symmetrical blocks have a unique variant when flipped!)
-* Q: Paint (Press multiple times to cycle through eight colors)
-* Q + E: Default color
-* Arrow Keys: Switch Rooms (+-1 = horizontal, +-10 = vertical)
-* M: Switch Music (toggle)
-* N: Reset Level
+### Editor
+* **1-9**: Select Block
+* **E**: Erase
+* **R**: Rotate
+* **F**: Flip (Symmetrical blocks have a unique variant when flipped!)
+* **Q**: Paint (Press multiple times to cycle through eight colors)
+* **Q + E**: Default color
+* **Arrow Keys**: Switch Rooms (+-1 = horizontal, +-10 = vertical)
+* **M**: Switch Music (toggle)
+* **N**: Reset Level
+* **P**: Save Level
+* **L**: Load Level
+* **Space**: Playtest Mode
 
-* P: Save Level
-* L: Load Level
-* Space: Playtest/Edit
-* Z: Debug Mode (hitboxes)
+### Playtest
+* **A/D / Left/Right Arrow**: Move left/right
+* **S / Down Arrow**: Crouch
+* **W / Up Arrow**: Jump
+* **Z**: Debug Mode (hitboxes)
+* **Space**: Editor Mode
 
 ## Credits
 Player movement and item pickup code courtesy of [griffpatch](https://www.youtube.com/playlist?list=PLy4zsTUHwGJIATydhFeZa5pspLZR7yE__).  
