@@ -26,7 +26,7 @@ Play it in your browser [here](https://blinhardt8-lab.github.io/cubeys-make-a-ra
 * Z: Debug Mode (hitboxes)
 
 ## Credits
-Player movement and item pickup code courtesy of [griffpatch](https://www.youtube.com/playlist?list=PLy4zsTUHwGJIATydhFeZa5pspLZR7yE__).
-All other scripting by Brett Linhardt.
-All music and art by Brett Linhardt.
+Player movement and item pickup code courtesy of [griffpatch](https://www.youtube.com/playlist?list=PLy4zsTUHwGJIATydhFeZa5pspLZR7yE__).  
+All other scripting by Brett Linhardt.  
+All music and art by Brett Linhardt.  
 Sound effects courtesy of Scratch (MIT)'s default sound library.
