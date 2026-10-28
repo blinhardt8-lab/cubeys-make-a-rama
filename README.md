@@ -2,7 +2,7 @@
 2026 Scratch Project by Brett Linhardt
 
 A lightweight, 2D, tile-based level editor engineered in Scratch and packaged via TurboWarp into HTML.
-Play it in your browser [here](https://blinhardt8-lab.github.io/cubeys-make-a-rama/)!:
+Play it in your browser [here](https://blinhardt8-lab.github.io/cubeys-make-a-rama/)!
 
 ## Key Features
 * **Frame Independency**: Instead of being capped at 30FPS (native Scratch refresh rate), custom delta time scripts allow movement to be calculated consistently across any monitor.
